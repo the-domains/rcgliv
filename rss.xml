@@ -4,7 +4,7 @@
         <description><![CDATA[RCGLIV]]></description>
         <link>https://thegrid.ai/rcgliv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 12:44:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2016 12:46:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rcgliv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/rcgliv/efd4bcac-80e9-4a83-a744-c137a52fd990/index.html</link>
             <guid isPermaLink="false">efd4bcac-80e9-4a83-a744-c137a52fd990</guid>
             <pubDate>Fri, 22 Jan 2016 12:44:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rafael Cifuentes]]></title>
-            <description><![CDATA[<article><h1>Rafael Cifuentes</h1><p>Wellcome to my life!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07e085c1b909764e4c5acd44bb92e35b0fcc0b64.jpg"></article>]]></description>
-            <link>https://thegrid.ai/rcgliv/rafael-cifuentes/index.html</link>
-            <guid isPermaLink="false">daec7e65-befb-4f4a-bed4-bbe6875d10b6</guid>
-            <pubDate>Fri, 22 Jan 2016 12:13:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
