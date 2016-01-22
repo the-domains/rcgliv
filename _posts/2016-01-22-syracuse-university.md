@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-22T16:32:40.575Z'
-dateModified: '2016-01-22T16:32:33.454Z'
+datePublished: '2016-01-22T16:33:51.412Z'
+dateModified: '2016-01-22T16:33:14.651Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-syracuse-university.md
