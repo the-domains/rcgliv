@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RCGLIV]]></title>
+        <description><![CDATA[RCGLIV]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 22 Jan 2016 12:13:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Rafael Cifuentes]]></title>
+            <description><![CDATA[<article><h1>Rafael Cifuentes</h1><p>Wellcome to my life!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ccda6be743f1cdcfe5e1c031c335686630da1633.jpg"></article>]]></description>
+            <link>undefinedrafael-cifuentes/index.html</link>
+            <guid isPermaLink="false">daec7e65-befb-4f4a-bed4-bbe6875d10b6</guid>
+            <pubDate>Fri, 22 Jan 2016 12:13:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
