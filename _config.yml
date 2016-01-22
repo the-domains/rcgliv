@@ -1,9 +1,7 @@
-favicon: null
 name: RCGLIV
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.4934
+typography_spectrum: 0.75
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5830285565461963
-  brandStrength: 0.5
-  rhythmicContrast: 0.615816286765039
   brandColors:
     - '#ffffff'
     - '#1d253c'
     - '#af8c6e'
     - '#d9c5b0'
     - '#773e28'
+  brandStrength: 0.5
   lightness: 0.1264008055441082
-typography_spectrum: 0.75
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.4982079
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.5830285565461963
+  rhythmicContrast: 0.615816286765039
+purpose: []
