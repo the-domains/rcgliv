@@ -1,7 +1,7 @@
 name: RCGLIV
 favicon: null
-layout_spectrum: 0.2412
-typography_spectrum: 0.33798
+layout_spectrum: 0.66789
+typography_spectrum: 0.35411
 collections:
   - index:
       path: /
