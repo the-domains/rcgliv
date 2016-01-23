@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-23T08:50:47.723Z'
-dateModified: '2016-01-22T18:42:22.611Z'
+datePublished: '2016-01-23T09:36:28.566Z'
+dateModified: '2016-01-23T09:36:23.339Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-syracuse-university.md
 published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
+  favicon: null
 url: syracuse-university/index.html
 _type: WebPage
 
