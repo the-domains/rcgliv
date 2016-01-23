@@ -1,41 +1,41 @@
-name: RCGLIV
-favicon: null
-layout_spectrum: 0.25293
-typography_spectrum: 0.35997
+title: 'Rafael Cifuentes '
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Rafael Cifuentes '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.75
+  brandStrength: 0.6875
+  rhythmicContrast: 0.25
   brandColors:
     - '#ffffff'
     - '#1c1c1c'
     - '#9a9a9a'
     - '#777777'
     - '#dbdbdb'
-  brandStrength: 0.6875
   lightness: 0.75
-  saturation: 0.75
-  rhythmicContrast: 0.25
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: RCGLIV
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.35997
+layout_spectrum: 0.4677419
