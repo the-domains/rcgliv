@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-24T17:52:52.649Z'
-dateModified: '2016-01-23T10:08:01.200Z'
+datePublished: '2016-01-24T23:02:34.739Z'
+dateModified: '2016-01-24T22:59:47.234Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-syracuse-university.md
@@ -23,7 +23,7 @@ _type: WebPage
 
 ---
 Syracuse University
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fea1febe990174c7bb63dbb43a119f5678c7549a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f79dea595d1a45650eda15c56221f5e9a971c13b.jpg)
 
 I chose SU because I was looking for a strong International Relations major, and SU's is among the best."
 
