@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-24T23:02:34.740Z'
-dateModified: '2016-01-24T22:59:47.234Z'
+datePublished: '2016-01-24T23:02:37.630Z'
+dateModified: '2016-01-24T23:02:35.281Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-syracuse-university.md
