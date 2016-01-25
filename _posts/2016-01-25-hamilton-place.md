@@ -1,28 +1,28 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T17:16:14.934Z'
-dateModified: '2016-01-25T17:16:01.206Z'
+datePublished: '2016-01-25T17:19:34.357Z'
+dateModified: '2016-01-25T17:19:30.184Z'
 title: Hamilton Place
 author: []
+sourcePath: _posts/2016-01-25-hamilton-place.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-25-hamilton-place.md
-published: true
 url: hamilton-place/index.html
-_type: Blurb
+_type: WebPage
 
 ---
-## Rafael at Hamilton Place Internship DC ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45b8db72-57c8-4779-b844-107170c8db98.png)
+## Rafael at Hamilton Place Internship DC ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9c62672a9ae454cb60d5d934fb1ff77f77d5d78.png)
 
 #### [Public Affairs Intern][0]
 
