@@ -2,14 +2,14 @@
     <channel>
         <title><![CDATA[Rafael Cifuentes ]]></title>
         <description><![CDATA[Rafael Cifuentes ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rcgliv/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Mon, 25 Jan 2016 18:30:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/rcgliv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[International Relations & Economics, 2016]]></title>
             <description><![CDATA[<article><h1></h1><p>"I chose SU because I was looking for a strong International Relations Major and SU´s is one of the Best!" </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e16012da-3b85-462b-b6b8-b49c190fe5fa.jpg"></article>]]></description>
-            <link>undefinedinternational-relations-and-economics-2016/index.html</link>
+            <link>https://thegrid.ai/rcgliv/international-relations-and-economics-2016/index.html</link>
             <guid isPermaLink="false">6bd67d58-83e4-4ecc-8736-81d2fa826dd2</guid>
             <pubDate>Mon, 25 Jan 2016 18:30:26 GMT</pubDate>
         </item>
