@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T11:30:59.374Z'
-dateModified: '2016-01-25T11:30:55.803Z'
+datePublished: '2016-01-25T11:32:53.577Z'
+dateModified: '2016-01-25T11:32:50.106Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-syracuse-university.md
@@ -25,6 +25,4 @@ _type: WebPage
 Syracuse University
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2612cab5-f0ca-4aa8-a1ca-9bc3231ab073.jpg)
 
-I chose SU because I was looking for a strong International Relations major, and SU's is among the best."
-
-http://admissions.syr.edu/visit/admissionseurope/meetstudents/
+I chose SU because I was looking for a strong International Relations major, and SU's is among the best."http://admissions.syr.edu/visit/admissionseurope/meetstudents/
