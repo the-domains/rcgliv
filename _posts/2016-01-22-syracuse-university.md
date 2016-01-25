@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-25T11:32:53.684Z'
-dateModified: '2016-01-25T11:32:50.106Z'
+datePublished: '2016-01-25T11:53:03.255Z'
+dateModified: '2016-01-25T11:52:57.497Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-syracuse-university.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: syracuse-university/index.html
-_type: WebPage
+_type: Article
 
 ---
 Syracuse University
