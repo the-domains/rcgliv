@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T12:26:26.006Z'
-dateModified: '2016-01-25T12:26:19.753Z'
+datePublished: '2016-01-25T12:27:46.672Z'
+dateModified: '2016-01-25T12:27:44.486Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-syracuse-university.md
