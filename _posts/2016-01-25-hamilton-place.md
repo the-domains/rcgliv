@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T17:26:08.311Z'
-dateModified: '2016-01-25T17:26:04.597Z'
+datePublished: '2016-01-25T17:29:09.288Z'
+dateModified: '2016-01-25T17:29:04.830Z'
 title: Hamilton Place
 author: []
 sourcePath: _posts/2016-01-25-hamilton-place.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: hamilton-place/index.html
-_type: WebPage
+_type: Article
 
 ---
 ## Rafael at Hamilton Place DC ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6654d59582393f204d58c02c064b0adfe5478faa.png)
