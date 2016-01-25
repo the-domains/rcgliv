@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-25T12:49:35.128Z'
-dateModified: '2016-01-25T12:49:30.650Z'
+datePublished: '2016-01-25T12:53:36.600Z'
+dateModified: '2016-01-25T12:53:32.603Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-22-syracuse-university.md
@@ -22,7 +21,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5b2aec6b3d267c6eb4d71956b958dc74c694cd15.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6da48cf-dc07-4723-968b-0e996cbd6008.jpg)
 
 ## I chose Syracuse University because I was looking for a strong International Relations major, and SU's is among the best.
 
