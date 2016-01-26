@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T15:49:51.190Z'
-dateModified: '2016-01-26T15:49:47.827Z'
+datePublished: '2016-01-26T15:52:47.886Z'
+dateModified: '2016-01-26T15:52:42.457Z'
 title: Syracuse University 16
 author: []
 sourcePath: _posts/2016-01-26-syracuse-university-16.md
@@ -26,7 +26,7 @@ _type: Article
 
 **Rafael Cifuentes, 2016 **  
 **International Relations & Economics**  
-**Madrid, Spain**
+**Spain**
 
 _"I chose SU because I was looking for a strong International Relations major, and SU's is among the best." _
 
