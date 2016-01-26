@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: Contact Info
-datePublished: '2016-01-26T19:16:45.279Z'
+datePublished: '2016-01-26T19:16:45.281Z'
 dateModified: '2016-01-26T19:16:35.843Z'
 title: rcifuent@syr.edu
 author: []
