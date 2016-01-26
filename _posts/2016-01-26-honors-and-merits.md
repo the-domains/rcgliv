@@ -1,25 +1,25 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T15:48:25.680Z'
-dateModified: '2016-01-26T15:48:14.304Z'
+datePublished: '2016-01-26T15:52:17.220Z'
+dateModified: '2016-01-26T15:52:13.238Z'
 title: 'Honors & Merits'
 author: []
+sourcePath: _posts/2016-01-26-honors-and-merits.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-honors-and-merits.md
-published: true
 url: honors-and-merits/index.html
-_type: WebPage
+_type: Article
 
 ---
 ## Honors & Merits & Organizations
