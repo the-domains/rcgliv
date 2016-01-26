@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T13:53:21.946Z'
+datePublished: '2016-01-26T13:53:21.987Z'
 dateModified: '2016-01-26T13:53:18.234Z'
 title: Syracuse University 16
 author: []
