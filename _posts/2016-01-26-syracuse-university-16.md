@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T13:34:45.236Z'
-dateModified: '2016-01-26T13:34:41.932Z'
+datePublished: '2016-01-26T13:40:06.079Z'
+dateModified: '2016-01-26T13:39:53.178Z'
 title: Syracuse University 16
 author: []
 sourcePath: _posts/2016-01-26-syracuse-university-16.md
