@@ -4,7 +4,7 @@
         <description><![CDATA[Rafael Cifuentes ]]></description>
         <link>https://thegrid.ai/rcgliv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 16:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 16:52:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rcgliv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Syracuse University]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/rcgliv/experience/index.html</link>
             <guid isPermaLink="false">a0d1db5f-d1e4-4d62-adb8-6c85d3a7fffd</guid>
             <pubDate>Tue, 26 Jan 2016 16:06:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact Me!]]></title>
+            <description><![CDATA[<article><h1>Contact Me!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/beb783bb4b38abf72098e09c6ddaee58e3b33a5f.png"></article>]]></description>
+            <link>https://thegrid.ai/rcgliv/contact/index.html</link>
+            <guid isPermaLink="false">656c58a8-f3da-4a87-8920-6122de9cf438</guid>
+            <pubDate>Tue, 26 Jan 2016 16:51:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
