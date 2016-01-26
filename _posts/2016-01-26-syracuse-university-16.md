@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-26T13:32:24.120Z'
-dateModified: '2016-01-26T13:32:22.461Z'
+datePublished: '2016-01-26T13:34:45.036Z'
+dateModified: '2016-01-26T13:34:41.932Z'
 title: Syracuse University 16
 author: []
+sourcePath: _posts/2016-01-26-syracuse-university-16.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-syracuse-university-16.md
-published: true
 url: syracuse-university-16/index.html
 _type: Article
 
