@@ -1,14 +1,14 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Contact Info
-datePublished: '2016-01-26T19:05:32.697Z'
-dateModified: '2016-01-26T19:05:29.893Z'
-title: 'Feel Free to Contact me:'
+datePublished: '2016-01-26T19:08:14.166Z'
+dateModified: '2016-01-26T19:08:11.653Z'
+title: Contact
 author: []
 sourcePath: _posts/2016-01-26-feel-free-to-contact-me.md
 published: true
@@ -19,14 +19,12 @@ publisher:
   url: null
   favicon: null
 url: feel-free-to-contact-me/index.html
-_type: Blurb
+_type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1d7fd23-5ed2-4e74-bc83-07762bf066ed.GIF)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04324353-87da-49fc-b4a4-9e1efaf55a51.GIF)
 
-# Feel Free to Contact me:
-
-rcifuent@syr.edu
+## rcifuent@syr.edu
 
 [LinkedIn][0]
 
