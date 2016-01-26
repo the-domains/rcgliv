@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T16:12:11.417Z'
-dateModified: '2016-01-26T16:12:07.841Z'
+datePublished: '2016-01-26T16:12:53.908Z'
+dateModified: '2016-01-26T16:12:49.334Z'
 title: Hamilton Place
 author: []
 sourcePath: _posts/2016-01-25-hamilton-place.md
@@ -29,4 +29,4 @@ Rafael Intern at HPS
 Government, Business, Media.
 
 HPS has a focus and expertise at the intersection of government, business, and media. Our team has a diversity of experience at the highest levels of all three of these sectors---including work in Congress, the White House, the Treasury, Presidential campaigns, national media, and management consulting.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b5d618c-a374-4db6-ac2b-c0d8d414a7c5.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/537f6d1945e440bbdec4224e004d95c64e892c98.png)
