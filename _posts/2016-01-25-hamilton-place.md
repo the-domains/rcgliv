@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T16:31:07.639Z'
-dateModified: '2016-01-26T16:31:04.928Z'
+datePublished: '2016-01-26T16:34:48.566Z'
+dateModified: '2016-01-26T16:34:45.612Z'
 title: Hamilton Place Strategies
 author: []
 sourcePath: _posts/2016-01-25-hamilton-place.md
@@ -22,12 +22,10 @@ url: hamilton-place/index.html
 _type: WebPage
 
 ---
-Hamilton Place Strategies - Leading & Thinking
+## Hamilton Place Strategies - Leading & Thinking
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1e71a57-c2ec-4763-a5ef-88fc79e896e8.png)
 
-Rafael at HPS 
-
-**Public Affairs Intern  **_SEPT de 2015 -- PRESENT (5 months)  _
+Rafael at HPS Public Affairs Intern 
 
 _Washington D.C., EEUU_Government, Business, Media.
 
