@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T16:57:44.464Z'
-dateModified: '2016-01-26T16:56:39.377Z'
+datePublished: '2016-01-26T18:42:02.877Z'
+dateModified: '2016-01-26T18:41:59.518Z'
 title: Syracuse University 16
 author: []
 sourcePath: _posts/2016-01-26-syracuse-university-16.md
@@ -28,7 +28,7 @@ _type: Article
 **International Relations & Economics**  
 **Spain**
 
-_"I chose SU because I was looking for a strong International Relations major, and SU's is among the best." _
+## "I chose SU because I was looking for a strong International Relations major, and SU's is among the best." 
 
 _"My advice to European students who are considering SU is to buy warm clothes! _
 
