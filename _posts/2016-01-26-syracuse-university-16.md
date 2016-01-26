@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T13:53:22.038Z'
-dateModified: '2016-01-26T13:53:18.234Z'
+datePublished: '2016-01-26T15:19:12.745Z'
+dateModified: '2016-01-26T15:19:07.998Z'
 title: Syracuse University 16
 author: []
 sourcePath: _posts/2016-01-26-syracuse-university-16.md
@@ -22,7 +22,7 @@ url: syracuse-university-16/index.html
 _type: Article
 
 ---
-## Syracuse, New York
+## SU, New York
 
 **Rafael Cifuentes, '16 **  
 **International Relations & Economics**  
