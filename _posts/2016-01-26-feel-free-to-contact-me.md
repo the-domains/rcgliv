@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: Contact Info
-datePublished: '2016-01-26T19:03:31.561Z'
-dateModified: '2016-01-26T19:03:27.784Z'
+datePublished: '2016-01-26T19:05:32.702Z'
+dateModified: '2016-01-26T19:05:29.893Z'
 title: 'Feel Free to Contact me:'
 author: []
 sourcePath: _posts/2016-01-26-feel-free-to-contact-me.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: feel-free-to-contact-me/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1d7fd23-5ed2-4e74-bc83-07762bf066ed.GIF)
