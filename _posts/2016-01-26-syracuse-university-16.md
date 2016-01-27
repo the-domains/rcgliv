@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T18:44:42.680Z'
-dateModified: '2016-01-26T18:44:39.618Z'
+datePublished: '2016-01-27T19:11:04.844Z'
+dateModified: '2016-01-27T19:11:01.369Z'
 title: Syracuse University 16
 author: []
 sourcePath: _posts/2016-01-26-syracuse-university-16.md
@@ -22,6 +22,10 @@ url: syracuse-university-16/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b6d1a8c-50c1-4216-a582-7dce4aa24a99.gif)
+
+## 
+
 ## rcifuent@syr.edu
 
 **Rafael Cifuentes, 2016 **  
