@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T19:00:01.722Z'
-dateModified: '2016-01-27T18:59:58.435Z'
+datePublished: '2016-01-27T19:05:50.474Z'
+dateModified: '2016-01-27T19:05:47.417Z'
 title: 'Honors & Merits'
 author: []
 sourcePath: _posts/2016-01-26-honors-and-merits.md
@@ -19,9 +19,13 @@ publisher:
   url: null
   favicon: null
 url: honors-and-merits/index.html
-_type: WebPage
+_type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44eed06f-0c12-436f-b6a8-d8ae6fe0c8c1.gif)
+
+## 
+
 ## Honors & Merits & Organizations
 
 #### **Excellence Scholarship**
