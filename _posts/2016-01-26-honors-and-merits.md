@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T19:00:01.690Z'
+datePublished: '2016-01-27T19:00:01.722Z'
 dateModified: '2016-01-27T18:59:58.435Z'
 title: 'Honors & Merits'
 author: []
