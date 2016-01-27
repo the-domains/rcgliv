@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T18:19:05.145Z'
-dateModified: '2016-01-27T18:18:55.941Z'
+datePublished: '2016-01-27T18:23:41.388Z'
+dateModified: '2016-01-27T18:23:38.537Z'
 title: 'Honors & Merits'
 author: []
 sourcePath: _posts/2016-01-26-honors-and-merits.md
@@ -24,27 +24,27 @@ _type: WebPage
 ---
 ## Honors & Merits & Organizations
 
-**Excellence Scholarship **
+#### **Excellence Scholarship**
 
 _Syracuse International Student 2012-2016_
 
-**Dean´s List **
+#### **Dean's List**
 
 _Fall 2013, Spring 2014, Fall 2014, Spring 2015\._
 
-**Omicron Delta Epsilon **
+#### **Omicron Delta Epsilon Member**
 
 **Member**
 
 _Economics International Honor Society. Inducted April, 2015\._
 
-##### **Sigma lota Rho **
+#### **Sigma Iota Rho Member**
 
 **Member**
 
 _International Relations Honor Society. Inducted April, 2015\._
 
-**CUNEF- Centro de Estudios Financieros**
+**CUNEF****- Centro Universitario de Estudios Financieros**
 
 **Madrid, Spain**
 
