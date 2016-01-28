@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T10:55:24.326Z'
-dateModified: '2016-01-28T10:55:20.776Z'
+datePublished: '2016-01-28T11:51:33.319Z'
+dateModified: '2016-01-28T11:50:25.093Z'
 title: Syracuse University 16
 author: []
 sourcePath: _posts/2016-01-26-syracuse-university-16.md
@@ -18,11 +19,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: syracuse-university-16/index.html
-_type: WebPage
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96bb26fb-f609-4868-902a-acc7288d7155.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3ee1468ff3bea32c8eb1fa592b69cb0478611ff.png)
 
 ## rcifuent@syr.edu
 
