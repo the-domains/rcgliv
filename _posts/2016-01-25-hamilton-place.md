@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T17:27:52.594Z'
-dateModified: '2016-01-28T17:27:24.653Z'
+datePublished: '2016-01-28T17:46:44.005Z'
+dateModified: '2016-01-28T17:46:39.821Z'
 title: Hamilton Place Strategies
 author: []
 sourcePath: _posts/2016-01-25-hamilton-place.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: hamilton-place/index.html
-_type: Blurb
+_type: Article
 
 ---
 ## Hamilton Place Strategies - Leading & Thinking
