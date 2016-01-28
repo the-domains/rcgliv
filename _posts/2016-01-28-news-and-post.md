@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T17:18:40.021Z'
-dateModified: '2016-01-28T17:18:25.734Z'
+datePublished: '2016-01-28T17:22:07.612Z'
+dateModified: '2016-01-28T17:22:03.953Z'
 title: 'News & Post'
 author: []
+sourcePath: _posts/2016-01-28-news-and-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-28-news-and-post.md
-published: true
 url: news-and-post/index.html
-_type: Article
+_type: WebPage
 
 ---
 News & Post 
