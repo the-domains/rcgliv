@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T17:06:17.914Z'
-dateModified: '2016-01-28T17:06:15.014Z'
+datePublished: '2016-01-28T17:27:52.558Z'
+dateModified: '2016-01-28T17:27:24.653Z'
 title: Hamilton Place Strategies
 author: []
 sourcePath: _posts/2016-01-25-hamilton-place.md
@@ -23,7 +23,7 @@ _type: Blurb
 
 ---
 ## Hamilton Place Strategies - Leading & Thinking
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1e71a57-c2ec-4763-a5ef-88fc79e896e8.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/668d2cbe96a2d043dc64e2241395ca7660738b73.png)
 
 Rafael at HPS Public Affairs Intern Washington, DC 
 
