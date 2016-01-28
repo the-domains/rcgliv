@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T12:24:17.039Z'
-dateModified: '2016-01-28T12:24:12.658Z'
+datePublished: '2016-01-28T17:31:29.987Z'
+dateModified: '2016-01-28T17:31:26.462Z'
 title: Syracuse University 16
 author: []
 sourcePath: _posts/2016-01-26-syracuse-university-16.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: syracuse-university-16/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c3ee1468ff3bea32c8eb1fa592b69cb0478611ff.png)
