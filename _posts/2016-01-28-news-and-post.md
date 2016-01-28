@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T17:22:07.740Z'
-dateModified: '2016-01-28T17:22:03.953Z'
+datePublished: '2016-01-28T17:23:49.241Z'
+dateModified: '2016-01-28T17:23:26.546Z'
 title: 'News & Post'
 author: []
 sourcePath: _posts/2016-01-28-news-and-post.md
@@ -22,7 +22,7 @@ url: news-and-post/index.html
 _type: WebPage
 
 ---
-News & Post 
+Read the latest News & Post 
 
 ## [Maxwell DC ][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d7d5fe1-5952-40a2-8f4e-f1af9e4621a5.jpg)
