@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-28T12:14:13.495Z'
-dateModified: '2016-01-28T12:14:08.531Z'
+datePublished: '2016-01-28T12:21:31.527Z'
+dateModified: '2016-01-28T12:21:26.528Z'
 title: Syracuse University 16
 author: []
 sourcePath: _posts/2016-01-26-syracuse-university-16.md
