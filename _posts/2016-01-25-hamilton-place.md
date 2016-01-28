@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-28T12:15:32.566Z'
-dateModified: '2016-01-28T12:14:42.729Z'
+datePublished: '2016-01-28T17:06:17.797Z'
+dateModified: '2016-01-28T17:06:15.014Z'
 title: Hamilton Place Strategies
 author: []
 sourcePath: _posts/2016-01-25-hamilton-place.md
