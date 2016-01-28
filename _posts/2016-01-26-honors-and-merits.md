@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T19:09:55.087Z'
-dateModified: '2016-01-27T19:09:51.549Z'
+datePublished: '2016-01-28T15:56:06.807Z'
+dateModified: '2016-01-28T15:56:05.733Z'
 title: 'Honors & Merits'
 author: []
 sourcePath: _posts/2016-01-26-honors-and-merits.md
@@ -22,6 +22,8 @@ url: honors-and-merits/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c98026b0-c703-4f63-84be-9814cff9f563.GIF)
+
 ## Honors & Merits & Organizations
 
 #### **Excellence Scholarship**
@@ -57,4 +59,5 @@ _International Relations Honor Society. Inducted April, 2015\._
 **Madrid, Spain**
 
 _Received a Scholarship from CUNEF to attend their Finance Summer School 2015\._
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9536cb1-6ed2-4fb0-ac61-603ec3bdd0ae.GIF)
+
+Uploading Item...
