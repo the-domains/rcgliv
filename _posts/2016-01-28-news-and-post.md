@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T12:40:34.790Z'
-dateModified: '2016-01-29T12:40:15.821Z'
+datePublished: '2016-01-29T12:42:50.079Z'
+dateModified: '2016-01-29T12:42:45.467Z'
 title: 'News & Links'
 author: []
 sourcePath: _posts/2016-01-28-news-and-post.md
@@ -19,11 +19,11 @@ publisher:
   url: null
   favicon: null
 url: news-and-post/index.html
-_type: WebPage
+_type: Article
 
 ---
 Read the latest News & Post & Links
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/026e750dfd7a2bbd5a7d7d4892c6248c8506e1ab.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/432830d26ec89a30828037e1d1dc19713fcd78d2.png)
 
 http://www.maxwell.syr.edu/DC/DC\_Profiles/Rafael\_Cifuentes\_\_16,\_IR\_\_\_ECON\_\_16/
 
