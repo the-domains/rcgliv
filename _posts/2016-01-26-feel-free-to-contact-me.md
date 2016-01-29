@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Contact Info
-datePublished: '2016-01-29T12:17:54.856Z'
-dateModified: '2016-01-29T12:17:51.018Z'
+datePublished: '2016-01-29T13:28:30.703Z'
+dateModified: '2016-01-29T13:28:18.832Z'
 title: Contact
 author: []
 sourcePath: _posts/2016-01-26-feel-free-to-contact-me.md
