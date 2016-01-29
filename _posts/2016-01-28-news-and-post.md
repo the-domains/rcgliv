@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T12:42:50.228Z'
-dateModified: '2016-01-29T12:42:45.467Z'
+datePublished: '2016-01-29T12:47:25.301Z'
+dateModified: '2016-01-29T12:47:21.144Z'
 title: 'News & Links'
 author: []
 sourcePath: _posts/2016-01-28-news-and-post.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 Read the latest News & Post & Links
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/432830d26ec89a30828037e1d1dc19713fcd78d2.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e67e945d15ad528a02262334abd23dcc7227fe2.png)
 
 http://www.maxwell.syr.edu/DC/DC\_Profiles/Rafael\_Cifuentes\_\_16,\_IR\_\_\_ECON\_\_16/
 
