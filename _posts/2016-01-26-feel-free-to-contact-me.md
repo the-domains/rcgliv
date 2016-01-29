@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Contact Info
-datePublished: '2016-01-29T12:08:25.086Z'
-dateModified: '2016-01-29T12:08:21.658Z'
+datePublished: '2016-01-29T12:17:54.751Z'
+dateModified: '2016-01-29T12:17:51.018Z'
 title: Contact
 author: []
 sourcePath: _posts/2016-01-26-feel-free-to-contact-me.md
@@ -22,7 +22,11 @@ url: feel-free-to-contact-me/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3cb8d79ad6515c4e6e31cfe1dce40850a9365f82.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a935a5d9-db2b-4c0c-9459-a6082ed81fb0.png)
+
+## 
+
+## 
 
 ## rcifuent@syr.edu
 
