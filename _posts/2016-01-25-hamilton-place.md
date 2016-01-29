@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T13:24:19.535Z'
-dateModified: '2016-01-29T13:24:15.645Z'
+datePublished: '2016-01-29T13:28:37.188Z'
+dateModified: '2016-01-29T13:28:10.373Z'
 title: ''
 author: []
 sourcePath: _posts/2016-01-25-hamilton-place.md
