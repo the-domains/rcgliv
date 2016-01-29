@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T13:17:37.599Z'
-dateModified: '2016-01-29T13:17:33.424Z'
+datePublished: '2016-01-29T13:20:52.213Z'
+dateModified: '2016-01-29T13:20:46.373Z'
 title: Hamilton Place Strategies
 author: []
 sourcePath: _posts/2016-01-25-hamilton-place.md
