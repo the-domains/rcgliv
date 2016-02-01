@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T10:29:49.675Z'
-dateModified: '2016-02-01T10:29:47.529Z'
+datePublished: '2016-02-01T10:44:11.797Z'
+dateModified: '2016-02-01T10:43:53.300Z'
 title: 'News & Links'
 author: []
 sourcePath: _posts/2016-01-28-news-and-post.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: news-and-post/index.html
-_type: WebPage
+_type: Article
 
 ---
 Read the latest News & Post & Links
