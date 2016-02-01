@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T15:55:47.690Z'
-dateModified: '2016-01-29T15:55:43.913Z'
+datePublished: '2016-02-01T10:59:26.645Z'
+dateModified: '2016-02-01T10:59:22.589Z'
 title: 'Honors & Merits'
 author: []
 sourcePath: _posts/2016-01-26-honors-and-merits.md
@@ -44,10 +44,8 @@ __
 
 **Member**
 
-_Economics International Honor Society._
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5a57121c6529fec42692f0a23b36702e0739428.jpg)
-
-_Inducted April, 2015\._
+_Economics International Honor Society. __Inducted April, 2015_
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b86ef838088f8a409b8d152db57e32a3aa478669.jpg)
 
 #### ****
 
@@ -55,12 +53,10 @@ _Inducted April, 2015\._
 
 #### **Sigma Iota Rho Member**
 
-_International Relations Honor Society._
+_International Relations Honor Society. __Inducted April, 2015\._
 
 **Member**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b86ef838088f8a409b8d152db57e32a3aa478669.jpg)
-
-_Inducted April, 2015\._
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5a57121c6529fec42692f0a23b36702e0739428.jpg)
 
 ****
 
@@ -72,6 +68,4 @@ _Inducted April, 2015\._
 
 **Madrid, Spain**
 
-_Received a Scholarship from CUNEF to attend their Finance Summer School 2015\._
-
-Uploading Item...
+_Received a Scholarship from CUNEF to attend their Finance Summer School 2015_
