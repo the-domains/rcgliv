@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T10:31:12.911Z'
-dateModified: '2016-02-01T10:31:10.134Z'
+datePublished: '2016-02-01T15:10:54.249Z'
+dateModified: '2016-02-01T15:10:50.004Z'
 title: Syracuse University 16
 author: []
 sourcePath: _posts/2016-01-26-syracuse-university-16.md
@@ -22,7 +22,9 @@ url: syracuse-university-16/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6c8a753423f10ef9f8a16d3e85b7043ce537e9db.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d32ce31-5375-49af-917c-96f90a256b37.jpg)
+
+## 
 
 ## rcifuent@syr.edu
 
