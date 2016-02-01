@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-01T16:02:13.578Z'
-dateModified: '2016-02-01T16:02:10.243Z'
+datePublished: '2016-02-01T19:05:51.996Z'
+dateModified: '2016-02-01T19:05:48.724Z'
 title: 'News & Links'
 author: []
 sourcePath: _posts/2016-01-28-news-and-post.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 Read the latest News & Post & Links
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e84292bd78f048839b21cb2ce8fa908a999032a.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce7f8248e9c75142c6d168670f3bcab4a53d460f.png)
 
 ## [Jan 2016 Maxwell DC ][0]
 
