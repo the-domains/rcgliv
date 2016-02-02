@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T18:57:57.508Z'
-dateModified: '2016-02-02T18:57:50.976Z'
+datePublished: '2016-02-02T19:04:15.384Z'
+dateModified: '2016-02-02T19:04:12.209Z'
 title: ' '
 author: []
 sourcePath: _posts/2016-02-02-be-goo-at-what-you-do-you-have-to-be-passionate-to-be-succe.md
@@ -22,6 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce6ddecbed8d757baa3b0d9f32fd4bd4ed98ae64.jpg)
-
-#
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d1d82cd-f0dd-4bc4-952e-4d22d6828038.jpg)
