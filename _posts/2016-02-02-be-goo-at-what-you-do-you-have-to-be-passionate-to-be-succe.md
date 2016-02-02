@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Rafael Cifuentes 2016 ( International Relations  & Economics)'
-datePublished: '2016-02-02T18:29:43.851Z'
-dateModified: '2016-02-02T18:29:40.996Z'
+datePublished: '2016-02-02T18:38:22.482Z'
+dateModified: '2016-02-02T18:38:16.993Z'
 title: 'Be good at what you do! You have to be passionate to be successful.'
 author: []
 sourcePath: _posts/2016-02-02-be-goo-at-what-you-do-you-have-to-be-passionate-to-be-succe.md
@@ -22,6 +22,6 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c924848-963e-4f5a-b233-514baed8d3aa.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17483008-b5a0-4d6c-b5fb-2f4562899628.jpg)
 
 # Be good at what you do! You have to be passionate to be successful.
