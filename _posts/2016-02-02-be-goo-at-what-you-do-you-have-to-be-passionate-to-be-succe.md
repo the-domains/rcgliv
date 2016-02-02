@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: 'Rafael Cifuentes 2016 ( International Relations '
-datePublished: '2016-02-02T10:25:05.253Z'
-dateModified: '2016-02-02T10:25:03.431Z'
+datePublished: '2016-02-02T10:35:37.038Z'
+dateModified: '2016-02-02T10:35:34.120Z'
 title: 'Be goo at what you do! You have to be passionate to be successful.'
 author: []
 sourcePath: _posts/2016-02-02-be-goo-at-what-you-do-you-have-to-be-passionate-to-be-succe.md
@@ -22,6 +21,6 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcda9b06-ac4f-40ac-95bb-f82246c76f7c.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5eeac4b9-0121-4768-8686-190877d12ee6.png)
 
 # Be goo at what you do! You have to be passionate to be successful.
