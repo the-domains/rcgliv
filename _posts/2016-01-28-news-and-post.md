@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T16:41:15.308Z'
-dateModified: '2016-02-02T16:41:12.326Z'
+datePublished: '2016-02-02T18:15:37.888Z'
+dateModified: '2016-02-02T18:15:35.114Z'
 title: 'News & Links'
 author: []
 sourcePath: _posts/2016-01-28-news-and-post.md
@@ -19,11 +19,11 @@ publisher:
   url: null
   favicon: null
 url: news-and-post/index.html
-_type: WebPage
+_type: Article
 
 ---
 Read the latest News & Post & Links
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce7f8248e9c75142c6d168670f3bcab4a53d460f.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7cf25e52c7a83d36d7982d964e9930194cf457d.png)
 
 ## [Jan 2016 Maxwell DC ][0]
 
