@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T19:05:57.607Z'
-dateModified: '2016-02-02T19:05:51.718Z'
+datePublished: '2016-02-02T19:07:19.805Z'
+dateModified: '2016-02-02T19:07:15.564Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-02-be-goo-at-what-you-do-you-have-to-be-passionate-to-be-succe.md
