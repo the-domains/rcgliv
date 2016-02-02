@@ -1,14 +1,14 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-29T13:28:37.176Z'
-dateModified: '2016-01-29T13:28:10.373Z'
-title: ''
+datePublished: '2016-02-02T19:13:02.292Z'
+dateModified: '2016-02-02T19:12:58.351Z'
+title: Hamilton Place
 author: []
 sourcePath: _posts/2016-01-25-hamilton-place.md
 published: true
@@ -19,11 +19,11 @@ publisher:
   url: null
   favicon: null
 url: hamilton-place/index.html
-_type: WebPage
+_type: Article
 
 ---
 ## Hamilton Place Strategies - Leading & Thinking
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3cc80fa22f74d1cc1563bfe51eb1e90a8b967ed.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/45140aea796f061a27e20551fdc817163b0a7db8.png)
 
 Rafael at HPS Public Affairs Intern Washington, DC 
 
