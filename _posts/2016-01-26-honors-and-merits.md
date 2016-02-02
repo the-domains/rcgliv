@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T19:11:59.791Z'
-dateModified: '2016-02-02T19:11:56.751Z'
+datePublished: '2016-02-02T19:17:18.231Z'
+dateModified: '2016-02-02T19:17:14.964Z'
 title: 'Honors & Merits'
 author: []
 sourcePath: _posts/2016-01-26-honors-and-merits.md
@@ -22,7 +22,7 @@ url: honors-and-merits/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1ab860fd435f6281bb3add692ad13772317b9f8.gif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27bf2188-82aa-4282-826c-6aa0401e1225.GIF)
 
 ## Honors & Merits & Organizations
 
