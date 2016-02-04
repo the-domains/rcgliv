@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T19:11:21.350Z'
-dateModified: '2016-02-02T19:11:17.315Z'
+datePublished: '2016-02-04T16:37:40.260Z'
+dateModified: '2016-02-04T16:37:37.553Z'
 title: Syracuse University 16
 author: []
 sourcePath: _posts/2016-01-26-syracuse-university-16.md
@@ -33,10 +33,5 @@ _type: Article
 > "I chose SU because I was looking for a strong International Relations major, and SU's is among the best." 
 
 _"My advice to European students who are considering SU is to buy warm clothes! _
-
-_I'm a first year student and have been here for only a few weeks, but it's been very easy to meet people". _
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e380824f-5a57-4b41-b0dd-6132121a67ae.jpg)
-
-## Rafael Fall 2012 & Nancy Machles Rothschild : Associate Dean of Admissions
 
 http://admissions.syr.edu/visit/admissionseurope/meetstudents/
