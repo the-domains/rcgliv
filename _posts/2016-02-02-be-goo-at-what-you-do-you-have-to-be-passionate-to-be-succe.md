@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-04T16:59:48.265Z'
-dateModified: '2016-02-04T16:59:45.715Z'
+datePublished: '2016-02-04T17:09:15.148Z'
+dateModified: '2016-02-04T17:09:11.192Z'
 title: Don´t follow...Lead instead.
 author: []
 sourcePath: _posts/2016-02-02-be-goo-at-what-you-do-you-have-to-be-passionate-to-be-succe.md
@@ -22,4 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/663f323b-fda7-4162-833b-7610f8377d1c.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1dfddfa3e1cb26c727390dc48606e8e56fa28395.jpg)
