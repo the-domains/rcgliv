@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-04T16:50:10.897Z'
-dateModified: '2016-02-04T16:50:06.354Z'
+datePublished: '2016-02-04T16:52:12.359Z'
+dateModified: '2016-02-04T16:51:44.006Z'
 title: ¿?
 author: []
 sourcePath: _posts/2016-02-02-be-goo-at-what-you-do-you-have-to-be-passionate-to-be-succe.md
@@ -21,4 +22,4 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd0ecbbe-e925-4ea7-a542-229b0f58d176.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/26f95414d7f750d8c200346f2eba9ff9d3049b4a.jpg)
