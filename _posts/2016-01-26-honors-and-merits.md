@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-12T12:30:49.409Z'
-dateModified: '2016-02-12T12:30:46.600Z'
+datePublished: '2016-02-12T17:14:39.730Z'
+dateModified: '2016-02-12T17:14:35.706Z'
 title: 'Honors & Merits'
 author: []
 sourcePath: _posts/2016-01-26-honors-and-merits.md
