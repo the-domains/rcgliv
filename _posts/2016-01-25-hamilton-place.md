@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-11T18:51:16.243Z'
-dateModified: '2016-02-11T18:43:36.108Z'
+datePublished: '2016-02-12T12:32:00.405Z'
+dateModified: '2016-02-12T12:31:58.124Z'
 title: Hamilton Place
 author: []
 sourcePath: _posts/2016-01-25-hamilton-place.md
