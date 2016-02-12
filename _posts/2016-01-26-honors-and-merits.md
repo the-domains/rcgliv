@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-12T12:29:46.811Z'
-dateModified: '2016-02-12T12:29:43.666Z'
+datePublished: '2016-02-12T12:30:49.409Z'
+dateModified: '2016-02-12T12:30:46.600Z'
 title: 'Honors & Merits'
 author: []
 sourcePath: _posts/2016-01-26-honors-and-merits.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: honors-and-merits/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd618a081dfeecfcdc6fcee4a5dc1b6e48206fbc.gif)
