@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-16T15:48:15.754Z'
-dateModified: '2016-02-16T15:48:12.536Z'
+description: 'Read the latest News & Post & Links'
+datePublished: '2016-03-10T18:17:49.485Z'
+dateModified: '2016-03-10T18:17:04.258Z'
 title: 'News & Links'
 author: []
 sourcePath: _posts/2016-01-28-news-and-post.md
