@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-12T17:15:28.896Z'
-dateModified: '2016-02-12T17:15:25.794Z'
+description: "“My advice to European students who are considering SU is to buy warm clothes!\_"
+datePublished: '2016-04-06T15:40:24.900Z'
+dateModified: '2016-04-06T15:37:26.814Z'
 title: Syracuse University 16
 author: []
 sourcePath: _posts/2016-01-26-syracuse-university-16.md
