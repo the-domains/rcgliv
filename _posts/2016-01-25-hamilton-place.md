@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-16T15:48:47.769Z'
-dateModified: '2016-02-16T15:48:44.477Z'
+description: "Rafael at HPS Public Affairs Intern Washington, DC\_"
+datePublished: '2016-04-06T15:40:37.044Z'
+dateModified: '2016-04-06T15:40:32.877Z'
 title: Hamilton Place
 author: []
 sourcePath: _posts/2016-01-25-hamilton-place.md
