@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Syracuse International Student 2012-2016
-datePublished: '2016-04-12T14:34:15.791Z'
-dateModified: '2016-04-12T14:31:47.767Z'
+datePublished: '2016-04-12T17:27:04.302Z'
+dateModified: '2016-04-12T15:56:29.857Z'
 title: 'Honors & Merits'
 author: []
 sourcePath: _posts/2016-01-26-honors-and-merits.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: honors-and-merits/index.html
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd618a081dfeecfcdc6fcee4a5dc1b6e48206fbc.gif)
