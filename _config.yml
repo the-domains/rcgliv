@@ -1,41 +1,41 @@
-name: Be Passionate
-favicon: null
-layout_spectrum: 0.25
-typography_spectrum: 1
 title: 'Rafael Cifuentes '
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.0625
+  brandStrength: 1
+  rhythmicContrast: 1
   brandColors:
     - '#ffffff'
     - '#1c1c1c'
     - '#9a9a9a'
     - '#777777'
     - '#dbdbdb'
-  brandStrength: 1
   lightness: 0.875
-  saturation: 0.0625
-  rhythmicContrast: 1
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Be Passionate
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 1
+layout_spectrum: 0.03405018
