@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: "Rafael at HPS Public Affairs Intern Washington, DC\_"
-datePublished: '2016-04-06T15:40:37.044Z'
-dateModified: '2016-04-06T15:40:32.877Z'
+datePublished: '2016-04-12T14:47:29.231Z'
+dateModified: '2016-04-12T14:46:11.216Z'
 title: Hamilton Place
 author: []
 sourcePath: _posts/2016-01-25-hamilton-place.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: hamilton-place/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ## Hamilton Place Strategies - Leading & Thinking
