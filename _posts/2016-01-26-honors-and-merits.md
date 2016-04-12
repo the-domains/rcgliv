@@ -1,13 +1,14 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: Syracuse International Student 2012-2016
-datePublished: '2016-04-06T15:40:15.810Z'
-dateModified: '2016-04-06T15:37:14.879Z'
+datePublished: '2016-04-12T14:29:42.024Z'
+dateModified: '2016-04-12T14:29:39.294Z'
 title: 'Honors & Merits'
 author: []
 sourcePath: _posts/2016-01-26-honors-and-merits.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: honors-and-merits/index.html
-_type: WebPage
+_type: Blurb
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bd618a081dfeecfcdc6fcee4a5dc1b6e48206fbc.gif)
@@ -45,7 +45,6 @@ __
 **Member**
 
 _Economics International Honor Society. __Inducted April, 2015_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b86ef838088f8a409b8d152db57e32a3aa478669.jpg)
 
 #### ****
 
@@ -56,7 +55,6 @@ _Economics International Honor Society. __Inducted April, 2015_
 _International Relations Honor Society. __Inducted April, 2015\._
 
 **Member**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5a57121c6529fec42692f0a23b36702e0739428.jpg)
 
 ****
 
