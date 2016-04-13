@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Hamilton Place Strategies
-datePublished: '2016-04-13T15:30:59.196Z'
-dateModified: '2016-04-13T14:35:23.249Z'
+datePublished: '2016-04-13T15:53:27.291Z'
+dateModified: '2016-04-13T15:53:22.989Z'
 title: Professional Experience
 author: []
 sourcePath: _posts/2016-04-13-hamilton-place-strategies.md
@@ -22,7 +22,7 @@ url: hamilton-place-strategies/index.html
 _type: WebPage
 
 ---
-> ## Professional Experience
+## Professional Experience
 
 **_Hamilton Place Strategies_**
 
