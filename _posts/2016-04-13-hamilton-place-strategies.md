@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Public \_Affairs Intern"
-datePublished: '2016-04-13T16:43:49.554Z'
-dateModified: '2016-04-13T16:43:38.747Z'
+datePublished: '2016-04-13T16:44:23.634Z'
+dateModified: '2016-04-13T16:44:20.803Z'
 title: Professional Experience
 author: []
 sourcePath: _posts/2016-04-13-hamilton-place-strategies.md
@@ -22,7 +22,7 @@ url: hamilton-place-strategies/index.html
 _type: WebPage
 
 ---
-## 
+## Professional Experience
 
 **Hamilton Place Strategies**
 
