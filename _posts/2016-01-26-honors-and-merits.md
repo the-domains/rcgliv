@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Syracuse International Student 2012-2016
-datePublished: '2016-04-12T17:27:04.302Z'
-dateModified: '2016-04-12T15:56:29.857Z'
+datePublished: '2016-04-13T14:14:11.143Z'
+dateModified: '2016-04-12T17:27:12.734Z'
 title: 'Honors & Merits'
 author: []
 sourcePath: _posts/2016-01-26-honors-and-merits.md
