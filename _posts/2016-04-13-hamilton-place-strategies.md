@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: "Public \_Affairs Intern"
-datePublished: '2016-04-13T16:44:23.634Z'
-dateModified: '2016-04-13T16:44:20.803Z'
+description: Hamilton Place Strategies
+datePublished: '2016-04-13T16:48:54.792Z'
+dateModified: '2016-04-13T16:48:36.712Z'
 title: Professional Experience
 author: []
 sourcePath: _posts/2016-04-13-hamilton-place-strategies.md
