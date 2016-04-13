@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rafael Cifuentes ]]></title>
+        <description><![CDATA[Rafael Cifuentes ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 14:10:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hamilton Place Strategies</p>]]></description>
+            <link>undefinedhamilton-place-strategies/index.html</link>
+            <guid isPermaLink="false">268d0a38-2980-43ba-99ca-1bfdb8768f59</guid>
+            <pubDate>Wed, 13 Apr 2016 14:09:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
