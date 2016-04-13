@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Hamilton Place Strategies
-datePublished: '2016-04-13T15:53:27.291Z'
-dateModified: '2016-04-13T15:53:22.989Z'
+description: "Public \_Affairs Intern"
+datePublished: '2016-04-13T16:39:03.140Z'
+dateModified: '2016-04-13T16:03:56.904Z'
 title: Professional Experience
 author: []
 sourcePath: _posts/2016-04-13-hamilton-place-strategies.md
@@ -22,13 +22,11 @@ url: hamilton-place-strategies/index.html
 _type: WebPage
 
 ---
-## Professional Experience
+## _Hamilton Place Strategies_
 
-**_Hamilton Place Strategies_**
+Public  Affairs Intern
 
-**Public  Affairs Intern**
-
-**SEPT de 2015 -- Dic 2015  Washington D.C., EEUU**
+SEPT de 2015 -- Dic 2015  Washington D.C., EEUU
 
 HPS uses a combination of analysis, communications, and advocacy to understand complex issues, to explain these issues for target audiences, and to persuade critical stakeholders. 
 
