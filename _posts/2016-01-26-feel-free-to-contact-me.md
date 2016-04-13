@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: LinkedIn
-datePublished: '2016-04-13T14:34:15.921Z'
-dateModified: '2016-04-13T14:32:48.005Z'
+datePublished: '2016-04-13T14:38:27.626Z'
+dateModified: '2016-04-13T14:38:13.600Z'
 title: Contact
 author: []
 sourcePath: _posts/2016-01-26-feel-free-to-contact-me.md
@@ -22,8 +22,6 @@ url: feel-free-to-contact-me/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec2c683d8964dea360635299be147026ef8457c0.png)
-
 ## rcifuent@syr.edu
 
 [LinkedIn][0]
