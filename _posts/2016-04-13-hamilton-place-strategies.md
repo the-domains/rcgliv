@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Public \_Affairs Intern"
-datePublished: '2016-04-13T16:39:03.140Z'
-dateModified: '2016-04-13T16:03:56.904Z'
+datePublished: '2016-04-13T16:43:49.554Z'
+dateModified: '2016-04-13T16:43:38.747Z'
 title: Professional Experience
 author: []
 sourcePath: _posts/2016-04-13-hamilton-place-strategies.md
@@ -22,7 +22,9 @@ url: hamilton-place-strategies/index.html
 _type: WebPage
 
 ---
-## _Hamilton Place Strategies_
+## 
+
+**Hamilton Place Strategies**
 
 Public  Affairs Intern
 
@@ -32,7 +34,7 @@ HPS uses a combination of analysis, communications, and advocacy to understand c
 
 **_Illinois Chamber of Commerce_**
 
-**Directly Interned with Executive Director.**
+Directly Interned with Executive Director.
 
 **Illinois Chamber of Commerce June de 2014 -- August de 2014 (3 months) Chicago Illinois, EEUU**
 
@@ -44,7 +46,7 @@ Worked as acting Communications Director.
 
 **_Republican National Committee_**
 
-**Press Office Intern**
+Press Office Intern
 
 **Junio 2013 -- Augut 2013 (3 months ) Washington D.C., EEUU**
 
