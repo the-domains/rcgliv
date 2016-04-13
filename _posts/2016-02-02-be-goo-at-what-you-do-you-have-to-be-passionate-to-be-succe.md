@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-13T15:29:09.818Z'
-dateModified: '2016-04-13T15:28:11.914Z'
+datePublished: '2016-04-13T15:30:35.371Z'
+dateModified: '2016-04-13T15:29:18.894Z'
 title: Don´t follow...Be passionate at what you do.
 author: []
 sourcePath: _posts/2016-02-02-be-goo-at-what-you-do-you-have-to-be-passionate-to-be-succe.md
