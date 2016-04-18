@@ -5,11 +5,13 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: Syracuse International Student 2012-2016
-datePublished: '2016-04-15T11:32:02.208Z'
-dateModified: '2016-04-15T11:29:33.448Z'
-title: 'Honors & Merits'
-author: []
+description: 'International Relations Honor Society.  Inducted April, 2015.'
+datePublished: '2016-04-18T14:10:21.733Z'
+dateModified: '2016-04-18T14:10:21.177Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-26-honors-and-merits.md
 published: true
 authors: []
@@ -26,7 +28,7 @@ _type: WebPage
 
 ## Honors & Merits & Organizations
 
-#### Excellence Scholarship
+Excellence Scholarship 
 
 _Syracuse International Student 2012-2016_
 
