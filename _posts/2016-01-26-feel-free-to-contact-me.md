@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-18T15:14:59.948Z'
-dateModified: '2016-04-18T15:14:45.378Z'
+datePublished: '2016-04-18T15:17:11.342Z'
+dateModified: '2016-04-18T15:15:08.015Z'
 title: rcifuent@syr.edu
 author: []
 sourcePath: _posts/2016-01-26-feel-free-to-contact-me.md
