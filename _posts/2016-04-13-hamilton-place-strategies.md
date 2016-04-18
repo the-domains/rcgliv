@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Hamilton Place Strategies
-datePublished: '2016-04-18T14:17:16.428Z'
-dateModified: '2016-04-18T14:17:12.458Z'
+datePublished: '2016-04-18T14:18:48.080Z'
+dateModified: '2016-04-18T14:18:40.077Z'
 title: Professional Experience
 author: []
 sourcePath: _posts/2016-04-13-hamilton-place-strategies.md
@@ -32,6 +32,8 @@ SEPT de 2015 -- Dic 2015 Washington D.C., EEUU
 
 HPS uses a combination of analysis, communications, and advocacy to understand complex issues, to explain these issues for target audiences, and to persuade critical stakeholders. 
 
+**__**
+
 **_Illinois Chamber of Commerce_**
 
 Directly Interned with Executive Director.
@@ -44,11 +46,13 @@ Worked as member liaison directly engaging with IL Chamber Board, companies, and
 
 Worked as acting Communications Director.
 
+**__**
+
 **_Republican National Committee_**
 
 Press Office Intern
 
-**Junio 2013 -- Augut 2013 (3 months ) Washington D.C., EEUU**
+****Junio 2013 -- Augut 2013 (3 months ) Washington D.C., EEUU****
 
 Interned with Head of Hispanic outreach at the Communications Office of the Committee, taking charge of the media outreach also (Twitter, Facebook page), writing op-eds, managing databases and digitalizing information. Contacting the Hispanic community throughout the United States for national purposes within the Committee. 
 
