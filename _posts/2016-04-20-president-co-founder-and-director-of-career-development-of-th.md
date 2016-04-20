@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: I Chose Syracuse university because I was looking for a strong International Relations Major and theirs is among the best
-datePublished: '2016-04-20T15:24:57.777Z'
-dateModified: '2016-04-20T15:24:49.024Z'
+datePublished: '2016-04-20T15:30:50.864Z'
+dateModified: '2016-04-20T15:27:34.855Z'
 title: 'Leadership & Team Work'
 author: []
 sourcePath: _posts/2016-04-20-president-co-founder-and-director-of-career-development-of-th.md
