@@ -3,12 +3,12 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: I Chose Syracuse university because I was looking for a strong International Relations Major and theirs is among the best
-datePublished: '2016-04-20T15:14:46.819Z'
-dateModified: '2016-04-20T15:14:40.736Z'
-title: 'Leadership & Team Work'
+datePublished: '2016-04-20T15:19:00.853Z'
+dateModified: '2016-04-20T15:18:49.919Z'
+title: ' '
 author: []
 sourcePath: _posts/2016-04-20-president-co-founder-and-director-of-career-development-of-th.md
 published: true
@@ -26,7 +26,7 @@ I Chose Syracuse university because I was looking for a strong International Rel
 
 _I was granted an Excellence Scholarship from Syracuse due to my curricular performance through school.__It has been exciting and demanding being able to gain leadership and team work experience as I have been actively involved at Syracuse University as:_
 
-## Leadership & Team Work
+## 
 
 ## President, Co-Founder & director of Career Development of the European Student Association SU
 
@@ -60,13 +60,9 @@ Dean's List
 
 _Fall 2013, Spring 2014, Fall 2014, Spring 2015\._
 
-#### Omicron Delta Epsilon Member
+#### Omicron Delta Epsilon Member / _Economics International Honor Society. __Inducted April, 2015_
 
-#### _Economics International Honor Society.__Inducted April, 2015_
-
-#### Sigma Iota Rho Member
-
-#### _International Relations Honor Society.__Inducted April, 2015\._
+#### Sigma Iota Rho Member / _International Relations Honor Society. __Inducted April, 2015\._
 
 CUNEF- Centro Universitario de Estudios Financieros
 
