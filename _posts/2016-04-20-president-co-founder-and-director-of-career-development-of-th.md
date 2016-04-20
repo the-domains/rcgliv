@@ -1,30 +1,32 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: I Chose Syracuse university because I was looking for a strong International Relations Major and theirs is among the best
-datePublished: '2016-04-20T15:12:13.666Z'
-dateModified: '2016-04-20T15:11:43.063Z'
-title: 'President, Co-Founder & director of Career Development of the European Student Association SU'
+datePublished: '2016-04-20T15:14:37.186Z'
+dateModified: '2016-04-20T15:14:24.166Z'
+title: 'Leadership & Team Work'
 author: []
+sourcePath: _posts/2016-04-20-president-co-founder-and-director-of-career-development-of-th.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-president-co-founder-and-director-of-career-development-of-th.md
-published: true
 url: president-co-founder-and-director-of-career-development-of-th/index.html
-_type: Article
+_type: Blurb
 
 ---
 I Chose Syracuse university because I was looking for a strong International Relations Major and theirs is among the best
 
 _I was granted an Excellence Scholarship from Syracuse due to my curricular performance through school.__It has been exciting and demanding being able to gain leadership and team work experience as I have been actively involved at Syracuse University as:_
+
+## Leadership & Team Work
 
 ## President, Co-Founder & director of Career Development of the European Student Association SU
 
