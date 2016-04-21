@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Hamilton Place Strategies
-datePublished: '2016-04-21T11:08:32.264Z'
-dateModified: '2016-04-21T11:07:43.279Z'
+datePublished: '2016-04-21T11:11:14.699Z'
+dateModified: '2016-04-21T11:11:04.222Z'
 title: Professional Experience
 author: []
 sourcePath: _posts/2016-04-13-hamilton-place-strategies.md
@@ -54,7 +54,7 @@ Worked as acting Communications Director.
 
 Press Office Intern
 
-****Junio 2013 -- Augut 2013 (3 months ) Washington D.C., EEUU****
+Junio 2013 -- Augut 2013 (3 months ) Washington D.C., EEUU********
 
 Interned with Head of Hispanic outreach at the Communications Office of the Committee, taking charge of the media outreach also (Twitter, Facebook page), writing op-eds, managing databases and digitalizing information. Contacting the Hispanic community throughout the United States for national purposes within the Committee. 
 
