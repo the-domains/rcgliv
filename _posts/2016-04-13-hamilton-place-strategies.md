@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Hamilton Place Strategies
-datePublished: '2016-04-21T11:11:14.699Z'
-dateModified: '2016-04-21T11:11:04.222Z'
+datePublished: '2016-04-21T11:20:28.508Z'
+dateModified: '2016-04-21T11:13:38.352Z'
 title: Professional Experience
 author: []
 sourcePath: _posts/2016-04-13-hamilton-place-strategies.md
@@ -26,7 +26,7 @@ _type: Blurb
 
 **Hamilton Place Strategies**
 
-Public Affairs Intern
+Public Affairs Intern 
 
 SEPT de 2015 -- Dic 2015 Washington D.C., EEUU
 
@@ -38,7 +38,7 @@ HPS uses a combination of analysis, communications, and advocacy to understand c
 
 Directly Interned with Executive Director.
 
-**Illinois Chamber of Commerce June de 2014 -- August de 2014 (3 months) Chicago Illinois, EEUU**
+Illinois Chamber of Commerce June de 2014 -- August de 2014 (3 months) Chicago Illinois, EEUU
 
 Focused on international business development, member consulting, and policy advocacy. Direct point of contact with companies, Consulates, and Trade Commissions.
 
@@ -48,9 +48,7 @@ Worked as acting Communications Director.
 
 **__**
 
-**__**
-
-**_Republican National Committee_**
+**_Republican National Committee_****__**
 
 Press Office Intern
 
