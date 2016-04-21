@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Hamilton Place Strategies
-datePublished: '2016-04-20T15:01:43.277Z'
-dateModified: '2016-04-18T15:17:32.064Z'
+datePublished: '2016-04-21T11:08:32.264Z'
+dateModified: '2016-04-21T11:07:43.279Z'
 title: Professional Experience
 author: []
 sourcePath: _posts/2016-04-13-hamilton-place-strategies.md
@@ -45,6 +45,8 @@ Focused on international business development, member consulting, and policy adv
 Worked as member liaison directly engaging with IL Chamber Board, companies, and federal agencies to develop Illinois businesses on a global scale.
 
 Worked as acting Communications Director.
+
+**__**
 
 **__**
 
