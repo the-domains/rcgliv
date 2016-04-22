@@ -1,12 +1,12 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Hamilton Place Strategies
-datePublished: '2016-04-22T12:16:07.631Z'
-dateModified: '2016-04-22T12:15:06.309Z'
+datePublished: '2016-04-22T12:21:38.581Z'
+dateModified: '2016-04-22T12:17:40.900Z'
 title: Professional Experience
 author: []
 sourcePath: _posts/2016-04-13-hamilton-place-strategies.md
@@ -19,7 +19,7 @@ publisher:
   favicon: null
 starred: true
 url: hamilton-place-strategies/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ## Professional Experience
