@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Hamilton Place Strategies
-datePublished: '2016-04-22T12:14:58.723Z'
-dateModified: '2016-04-22T12:14:51.432Z'
-title: ''
+datePublished: '2016-04-22T12:16:07.631Z'
+dateModified: '2016-04-22T12:15:06.309Z'
+title: Professional Experience
 author: []
 sourcePath: _posts/2016-04-13-hamilton-place-strategies.md
 published: true
