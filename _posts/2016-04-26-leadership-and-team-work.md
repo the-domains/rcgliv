@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: I Chose Syracuse university because I was looking for a strong International Relations Major and theirs is among the best
-datePublished: '2016-04-26T12:43:14.446Z'
-dateModified: '2016-04-26T12:43:13.968Z'
+datePublished: '2016-04-26T12:44:10.308Z'
+dateModified: '2016-04-26T12:43:47.227Z'
 title: 'Leadership & Team Work'
 author: []
+sourcePath: _posts/2016-04-26-leadership-and-team-work.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-26-leadership-and-team-work.md
-published: true
+starred: true
 url: leadership-and-team-work/index.html
-_type: Article
+_type: WebPage
 
 ---
 ## Leadership & Team Work
