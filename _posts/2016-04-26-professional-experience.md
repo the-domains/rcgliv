@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-26T12:40:27.883Z'
-dateModified: '2016-04-26T12:40:11.133Z'
+datePublished: '2016-04-26T12:41:07.991Z'
+dateModified: '2016-04-26T12:40:36.569Z'
 title: Professional Experience
 author: []
 sourcePath: _posts/2016-04-26-professional-experience.md
