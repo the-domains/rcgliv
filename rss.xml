@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Be Passionate]]></title>
+        <description><![CDATA[Be Passionate]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 26 Apr 2016 12:43:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leadership & Team Work]]></title>
+            <description><![CDATA[<article><h1>Leadership & Team Work</h1><p>I Chose Syracuse university because I was looking for a strong International Relations Major and theirs is among the best</p></article>]]></description>
+            <link>undefinedleadership-and-team-work/index.html</link>
+            <guid isPermaLink="false">92269804-6f70-4273-a52b-e43ef7d71c89</guid>
+            <pubDate>Tue, 26 Apr 2016 12:43:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
