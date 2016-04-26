@@ -4,20 +4,20 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ' '
-datePublished: '2016-04-26T12:40:03.976Z'
-dateModified: '2016-04-26T12:39:50.539Z'
+description: ''
+datePublished: '2016-04-26T12:40:27.883Z'
+dateModified: '2016-04-26T12:40:11.133Z'
 title: Professional Experience
 author: []
+sourcePath: _posts/2016-04-26-professional-experience.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-26-professional-experience.md
-published: true
+starred: true
 url: professional-experience/index.html
 _type: WebPage
 
